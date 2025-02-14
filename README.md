@@ -37,6 +37,7 @@ INVESTIGATING SOC ALERTS FOR POSSIBLE SQL INJECTION PAYLOAD badge
 INVESTIGATING SOC ALERTS FOR POSSIBLE SQL INJECTION PAYLOAD
 
 🏆 Certifications
+![image](https://github.com/user-attachments/assets/97ed1103-3021-4b5c-b23a-b76cd7c10a22)
 
 
 
