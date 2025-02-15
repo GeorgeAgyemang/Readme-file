@@ -51,25 +51,45 @@ Developed a security dashboard using Power BI to monitor and analyze network act
 
 🔐 Access Control Management Solution
 Engineered a role-based access control (RBAC) system to enhance network security and ensure compliance with ISO standards. Developed audit reporting mechanisms to track unauthorized access attempts, strengthening policy enforcement and security governance.
-🔍 SOC Simulations:
 
+🔍 SOC Simulations:
 Practicing threat detection, incident response, and log analysis on platforms like Splunk, ELK Stack, and Wireshark.
 🚀 Exploring tools like SIEM, IDS/IPS, and firewalls to enhance my SOC skill set.
+
 Cybersecurity & SOC Tools:
 
-SIEM Platforms
+# Cybersecurity & SOC Tools
 
-  
-Packet Analysis:
+## SIEM Platforms
+- ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-blue)
+- ![Splunk](https://img.shields.io/badge/Splunk-black)
 
-  
-Endpoint Security:
+## Packet Analysis
+- ![Wireshark](https://img.shields.io/badge/Wireshark-blue)
+- ![TCPDump](https://img.shields.io/badge/TCPDump-green)
 
-  
-Network Defense
+## Endpoint Security
+- ![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-blue)
+- ![Velociraptor](https://img.shields.io/badge/Velociraptor-purple)
 
-       
-Vulnerability Management:
+## Network Defense
+- ![Wireshark](https://img.shields.io/badge/Wireshark-blue)
+- ![Palo Alto Networks](https://img.shields.io/badge/Palo%20Alto%20Networks-teal)
+- ![Snort](https://img.shields.io/badge/Snort-orange)
+- ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-blue)
+- ![Suricata](https://img.shields.io/badge/Suricata-red)
+
+## Vulnerability Management
+
+### Scanning Tools
+- ![TCPDump](https://img.shields.io/badge/TCPDump-green)
+- ![OpenVAS](https://img.shields.io/badge/OpenVAS-green)
+- ![Nessus](https://img.shields.io/badge/Nessus-green)
+
+## Frameworks
+- **DOD IAVM, DISA STIG**
+
+
 
 Scanning Tools:
 
