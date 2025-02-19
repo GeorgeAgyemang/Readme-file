@@ -110,5 +110,5 @@ Virtualization: VMware, VirtualBox, Raspberry Pi
 Networking: TCP/IP, DNS, DHCP, VPNs
 🤝 Let's Connect
 
-🌍 linkedin.com/in/emmanuel-nyamekye-72a161237
+🌍 https://www.linkedin.com/in/george-agyeman-6147076097/
 📩 Feel free to reach out for collaborations, SOC-related projects, or mentorship opportunities. 📩 Feel free to reach out for collaborations, SOC-related projects, or mentorship opportunities.
