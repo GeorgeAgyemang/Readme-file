@@ -21,7 +21,7 @@ Student Data Analyst at Divergence Academy
 As a Student Data Analyst, I designed and implemented data models using SQL and Power BI to support business intelligence initiatives. I streamlined reporting processes by developing automated dashboards, enabling real-time monitoring of key metrics. Working within Agile sprints, I collaborated on technical requirements, breaking down complex data problems and documenting compliance-focused solutions to enhance data integrity and decision-making processes.
 
 🛠️ Gained experience using platforms like TryHackMe and School lab projects ( CENGAGE LEARNING )
-[Computer Forensic Project](https://github.com/GeorgeAgyemang/Readme-file/blob/main/Computer%20Forensic%20Project%20.txt)
+[Computer Forensic Project](https://github.com/GeorgeAgyemang/Readme-file/blob/main/Computer%20Forensics%20Project.md)
 
 - CONFIGURING A NETWORK BASED FIREWALL PROJECT
 INVESTIGATING SOC ALERTS FOR POSSIBLE SQL INJECTION PAYLOAD badge
