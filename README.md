@@ -22,14 +22,8 @@ As a Student Data Analyst, I designed and implemented data models using SQL and 
 
 🛠️ Gained experience using platforms like TryHackMe and School lab projects ( CENGAGE LEARNING )
 
-Creating New Users and Adding to the Security Group
-Examining Alerts, logs and rules with Suricata
-Vulnerability-Scanning-and-Penetration-Testing
-Incident-Response-Process---TryhHackMe
-OpenVas Vulnerability Management --- TryHackMe
- Cyber Kill Chain Course --- LetsDefend
- MITRE ATT&CK COURSE --- LetsDefend
-IDS-IPS-FIREWALL-EDR-PROJECT ---LetsDefend
+[Incident Response Project](https://github.com/GeorgeAgyemang/Readme-file/blob/main/Incident-response.txt.txt)
+
  - Computer Forensics Project
 - CONFIGURING A NETWORK BASED FIREWALL PROJECT
 INVESTIGATING SOC ALERTS FOR POSSIBLE SQL INJECTION PAYLOAD badge
