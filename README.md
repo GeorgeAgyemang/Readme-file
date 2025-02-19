@@ -23,7 +23,11 @@ As a Student Data Analyst, I designed and implemented data models using SQL and 
 🛠️ Gained experience using platforms like TryHackMe and School lab projects ( CENGAGE LEARNING )
 
 [Computer Forensic Project](https://github.com/GeorgeAgyemang/Readme-file/blob/main/Computer%20Forensics%20Project.md)
+
 [IDS-IPS-FIREWALL-EDR-PROJECT ---LetsDefend](https://github.com/GeorgeAgyemang/Readme-file/edit/main/IDS-IPS-FIREWALL-EDR-PROJECT%20---LetsDefend.md)
+
+[Incident-Response-Process---TryhHackMe](https://github.com/GeorgeAgyemang/Readme-file/blob/main/Incident-Response-Process---TryhHackMe.md)
+
 
 - CONFIGURING A NETWORK BASED FIREWALL PROJECT
 INVESTIGATING SOC ALERTS FOR POSSIBLE SQL INJECTION PAYLOAD badge
