@@ -22,7 +22,7 @@ As a Student Data Analyst, I designed and implemented data models using SQL and 
 
 🛠️ Gained experience using platforms like TryHackMe and School lab projects ( CENGAGE LEARNING )
 
-[Incident Response Project](https://github.com/GeorgeAgyemang/Readme-file/blob/main/Incident-response.txt.txt)
+
 
  - Computer Forensics Project
 - CONFIGURING A NETWORK BASED FIREWALL PROJECT
