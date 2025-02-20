@@ -47,14 +47,30 @@ As a Student Data Analyst, I designed and implemented data models using SQL and 
 
 </details>
 
+<details>
+  <summary>
+    <a href="https://app.letsdefend.io/my-rewards/detail/1fd18419-f595-4463-a773-b2a5b44b624c">MITRE ATT&CK COURSE — LetsDefend</a>
+  </summary>
+
+  - Gained a thorough understanding of the MITRE ATT&CK Framework and its importance for SOC analysts.  
+  - Developed knowledge of the various tactics, techniques, and procedures (TTPs) used by threat actors to conduct attacks on computer networks.  
+  - Learned how to use the MITRE ATT&CK Framework to identify and categorize different types of attacks based on the tactics and techniques used.  
+  - Understood how the MITRE ATT&CK Framework can be used to improve incident response and threat intelligence gathering.  
+
+</details>
 
 
-INVESTIGATING SOC ALERTS FOR POSSIBLE SQL INJECTION PAYLOAD
+### 🏆 Certifications
 
-🏆 Certifications
-[Image Description]([URL-of-your-image](https://github.com/user-attachments/assets/97ed1103-3021-4b5c-b23a-b76cd7c10a22))
+<details>
+  <summary>CompTIA Security+</summary>
+  <img src="IMAGE_LINK_FOR_SECURITY+" alt="CompTIA Security+ Certification" width="400"/>
+</details>
 
-
+<details>
+  <summary>CompTIA Data+</summary>
+  <img src="IMAGE_LINK_FOR_DATA+" alt="CompTIA Data+ Certification" width="400"/>
+</details>
 
 
 📚 Current Projects & Learning
@@ -75,54 +91,50 @@ Cybersecurity & SOC Tools:
 
 # Cybersecurity & SOC Tools
 
-## SIEM Platforms
-- ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-blue)
+## 🛡️ SIEM Platforms
 - ![Splunk](https://img.shields.io/badge/Splunk-black)
+- ![ELK Stack](https://img.shields.io/badge/ELK%20Stack-darkblue)
 
-## Packet Analysis
+## 📡 Packet Analysis
 - ![Wireshark](https://img.shields.io/badge/Wireshark-blue)
-- ![TCPDump](https://img.shields.io/badge/TCPDump-green)
+- ![Zeek](https://img.shields.io/badge/Zeek-red)
 
-## Endpoint Security
-- ![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-blue)
-- ![Velociraptor](https://img.shields.io/badge/Velociraptor-purple)
-
-## Network Defense
-- ![Wireshark](https://img.shields.io/badge/Wireshark-blue)
-- ![Palo Alto Networks](https://img.shields.io/badge/Palo%20Alto%20Networks-teal)
-- ![Snort](https://img.shields.io/badge/Snort-orange)
-- ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-blue)
+## 🔥 Network Defense
 - ![Suricata](https://img.shields.io/badge/Suricata-red)
+- ![Snort](https://img.shields.io/badge/Snort-orange)
+- ![Fortinet Firewall](https://img.shields.io/badge/Fortinet%20Firewall-teal)
+- ![AWS WAF](https://img.shields.io/badge/AWS%20WAF-yellow)
+- ![Cloudflare](https://img.shields.io/badge/Cloudflare-orange)
 
-## Vulnerability Management
+## 🖥️ Endpoint Security
+- ![Microsoft Defender for Endpoint](https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-blue)
+- ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-red)
 
-### Scanning Tools
-- ![TCPDump](https://img.shields.io/badge/TCPDump-green)
-- ![OpenVAS](https://img.shields.io/badge/OpenVAS-green)
-- ![Nessus](https://img.shields.io/badge/Nessus-green)
+## 🚨 Threat Intelligence & Attack Lifecycle
+- ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-black)
+- ![Cyber Kill Chain](https://img.shields.io/badge/Cyber%20Kill%20Chain-purple)
 
-## Frameworks
-- **DOD IAVM, DISA STIG**
+## 🔍 Digital Forensics & Incident Response
+- ![Autopsy](https://img.shields.io/badge/Autopsy-blue)
+- ![FTK Imager](https://img.shields.io/badge/FTK%20Imager-lightblue)
+- ![Hex Editors](https://img.shields.io/badge/Hex%20Editors-darkred)
 
+## 🏢 Security Governance & Compliance
+- ![DISA STIG](https://img.shields.io/badge/DISA%20STIG-darkgreen)
+- ![ISO Compliance](https://img.shields.io/badge/ISO%20Compliance-darkblue)
 
+## 🌐 Networking & IT Fundamentals
+- ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-blue)
+- ![DNS](https://img.shields.io/badge/DNS-purple)
+- ![HTTP/S](https://img.shields.io/badge/HTTP%2FS-orange)
+- ![VPNs](https://img.shields.io/badge/VPNs-darkgreen)
 
-Scanning Tools:
-
-    
-Frameworks: DOD IAVM, DISA STIG
-
-Scripting & Automation:
-
-Languages:
-  
-Automation: Scripts for log analysis and vulnerability remediation
-General IT Skills:
-
-Operating Systems:
-
-Windows Server, Linux (Ubuntu, CentOS)
-Virtualization: VMware, VirtualBox, Raspberry Pi
-Networking: TCP/IP, DNS, DHCP, VPNs
+## 💻 Operating Systems & Virtualization
+- ![Windows Server](https://img.shields.io/badge/Windows%20Server-blue)
+- ![Linux (Ubuntu, CentOS)](https://img.shields.io/badge/Linux%20(Ubuntu%2C%20CentOS)-orange)
+- ![VMware](https://img.shields.io/badge/VMware-gray)
+- ![VirtualBox](https://img.shields.io/badge/VirtualBox-darkblue)
+- ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-red)
 🤝 Let's Connect
 
 🌍 https://www.linkedin.com/in/george-agyeman-6147076097/
