@@ -22,15 +22,32 @@ As a Student Data Analyst, I designed and implemented data models using SQL and 
 
 🛠️ Gained experience using platforms like TryHackMe and School lab projects ( CENGAGE LEARNING )
 
-[Computer Forensic Project](https://github.com/GeorgeAgyemang/Readme-file/blob/main/Computer%20Forensics%20Project.md)
+<details>
+  <summary>
+    <a href="https://github.com/GeorgeAgyemang/Readme-file/blob/main/Computer%20Forensics%20Project.md">Computer Forensic Project</a>
+  </summary>
+
+  [View Full Project](https://github.com/Yaw121/DATA-ACQUISITION)
+
+</details>
+
 
 [IDS-IPS-FIREWALL-EDR-PROJECT ---LetsDefend](https://github.com/GeorgeAgyemang/Readme-file/edit/main/IDS-IPS-FIREWALL-EDR-PROJECT%20---LetsDefend.md)
 
 [Incident-Response-Process---TryhHackMe](https://github.com/GeorgeAgyemang/Readme-file/blob/main/Incident-Response-Process---TryhHackMe.md)
 
+<details>
+  <summary>Cyber Kill Chain Course --- LetsDefend</summary>
 
-- CONFIGURING A NETWORK BASED FIREWALL PROJECT
-INVESTIGATING SOC ALERTS FOR POSSIBLE SQL INJECTION PAYLOAD badge
+  [View Course](https://app.letsdefend.io/my-rewards/detail/85d0b949-0d77-4dbf-9072-e23c5badbb0f)
+
+  - A comprehensive understanding of the different stages of a cyber attack and how to identify and analyze each stage.  
+  - An understanding of how to develop effective strategies to prevent, detect, and respond to cyber attacks.  
+  - Improved incident response skills and the ability to effectively mitigate the impact of a cyber attack.  
+
+</details>
+
+
 
 INVESTIGATING SOC ALERTS FOR POSSIBLE SQL INJECTION PAYLOAD
 
