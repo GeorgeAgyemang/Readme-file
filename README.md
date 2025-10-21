@@ -4,7 +4,7 @@ Hi there! Welcome to my GitHub Profile
 
 💼 Professional Experience
 
-Current Role: GRC Compliance Analyst at 9brains
+Current Role: GRC Analyst at 9brains Intern
 
 As a GRC Compliance Analyst, I assist in engineering security solutions aligned with ISO standards to ensure compliance across IT systems and infrastructure. I conduct security risk assessments, gap analyses, and penetration testing to identify vulnerabilities and recommend remediation strategies. My responsibilities include supporting the design of security frameworks and technical specifications to enhance enterprise security posture. I engage with vendors and internal teams to implement next-generation security technologies and automation capabilities, ensuring that security initiatives align with industry best practices. Staying informed on emerging security threats and regulatory requirements, I contribute to maintaining a robust security posture through continuous risk assessments and strategic security improvements.
 
